@@ -1,3 +1,1 @@
 # conflict-practice
-
-## Index
